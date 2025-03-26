@@ -1,0 +1,178 @@
+[
+  {
+    "station_id": "ENV_STATION_001",
+    "location": "Building A",
+    "timestamp": "2025-03-24T00:20:21.588174",
+    "temperature": 24.48,
+    "humidity": 69.0,
+    "co2": 1888.0
+  },
+  {
+    "station_id": "ENV_STATION_001",
+    "location": "Building A",
+    "timestamp": "2025-03-24T00:20:31.792826",
+    "temperature": 21.11,
+    "humidity": 61.16,
+    "co2": 1878.0
+  },
+  {
+    "station_id": "ENV_STATION_001",
+    "location": "Building A",
+    "timestamp": "2025-03-24T00:20:41.999122",
+    "temperature": 16.29,
+    "humidity": 54.6,
+    "co2": 1169.0
+  },
+  {
+    "station_id": "ENV_STATION_001",
+    "location": "Building A",
+    "timestamp": "2025-03-24T00:20:52.205594",
+    "temperature": 24.38,
+    "humidity": 36.79,
+    "co2": 523.0
+  },
+  {
+    "station_id": "ENV_STATION_001",
+    "location": "Building A",
+    "timestamp": "2025-03-24T00:21:02.412584",
+    "temperature": 21.2,
+    "humidity": 48.98,
+    "co2": 1058.0
+  },
+  {
+    "station_id": "ENV_STATION_001",
+    "location": "Building A",
+    "timestamp": "2025-03-24T00:21:12.617661",
+    "temperature": 18.33,
+    "humidity": 69.52,
+    "co2": 1084.0
+  },
+  {
+    "station_id": "ENV_STATION_001",
+    "location": "Building A",
+    "timestamp": "2025-03-24T00:21:22.825360",
+    "temperature": 28.39,
+    "humidity": 38.23,
+    "co2": 861.0
+  },
+  {
+    "station_id": "ENV_STATION_001",
+    "location": "Building A",
+    "timestamp": "2025-03-24T00:21:33.030460",
+    "temperature": 20.13,
+    "humidity": 33.17,
+    "co2": 1092.0
+  },
+  {
+    "station_id": "ENV_STATION_001",
+    "location": "Building A",
+    "timestamp": "2025-03-24T00:21:43.235839",
+    "temperature": 29.25,
+    "humidity": 55.11,
+    "co2": 1739.0
+  },
+  {
+    "station_id": "ENV_STATION_001",
+    "location": "Building A",
+    "timestamp": "2025-03-24T00:21:53.442788",
+    "temperature": 18.42,
+    "humidity": 46.7,
+    "co2": 1773.0
+  },
+  {
+    "station_id": "ENV_STATION_001",
+    "location": "Building A",
+    "timestamp": "2025-03-24T00:22:03.650204",
+    "temperature": 23.87,
+    "humidity": 49.51,
+    "co2": 1665.0
+  },
+  {
+    "station_id": "ENV_STATION_001",
+    "location": "Building A",
+    "timestamp": "2025-03-24T00:22:13.854532",
+    "temperature": 22.45,
+    "humidity": 62.01,
+    "co2": 1048.0
+  },
+  {
+    "station_id": "ENV_STATION_001",
+    "location": "Building A",
+    "timestamp": "2025-03-24T00:22:24.056666",
+    "temperature": 25.14,
+    "humidity": 35.56,
+    "co2": 1589.0
+  },
+  {
+    "station_id": "ENV_STATION_001",
+    "location": "Building A",
+    "timestamp": "2025-03-24T00:22:34.259240",
+    "temperature": 22.18,
+    "humidity": 60.67,
+    "co2": 1442.0
+  },
+  {
+    "station_id": "ENV_STATION_001",
+    "location": "Building A",
+    "timestamp": "2025-03-24T00:22:44.466946",
+    "temperature": 19.36,
+    "humidity": 39.25,
+    "co2": 929.0
+  },
+  {
+    "station_id": "ENV_STATION_001",
+    "location": "Building A",
+    "timestamp": "2025-03-24T00:22:54.671092",
+    "temperature": 20.63,
+    "humidity": 61.17,
+    "co2": 1940.0
+  },
+  {
+    "station_id": "ENV_STATION_001",
+    "location": "Building A",
+    "timestamp": "2025-03-24T00:23:04.878807",
+    "temperature": 21.04,
+    "humidity": 61.41,
+    "co2": 1376.0
+  },
+  {
+    "station_id": "ENV_STATION_001",
+    "location": "Building A",
+    "timestamp": "2025-03-24T00:23:15.085625",
+    "temperature": 22.15,
+    "humidity": 51.32,
+    "co2": 1475.0
+  },
+  {
+    "station_id": "ENV_STATION_001",
+    "location": "Building A",
+    "timestamp": "2025-03-24T00:23:25.287895",
+    "temperature": 16.38,
+    "humidity": 51.25,
+    "co2": 715.0
+  },
+  {
+    "station_id": "ENV_STATION_001",
+    "location": "Building A",
+    "timestamp": "2025-03-24T00:23:35.495326",
+    "temperature": 26.71,
+    "humidity": 39.47,
+    "co2": 444.0
+  },
+  {
+    "station_id": "ENV_STATION_001",
+    "location": "Building A",
+    "timestamp": "2025-03-24T00:23:45.705633",
+    "temperature": 18.15,
+    "humidity": 45.71,
+    "co2": 1195.0
+  },
+  {
+    "station_id": "ENV_STATION_001",
+    "location": "Building A",
+    "timestamp": "2025-03-24T00:23:55.911817",
+    "temperature": 24.35,
+    "humidity": 53.27,
+    "co2": 890.0
+  }
+]

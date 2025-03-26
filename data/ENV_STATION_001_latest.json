@@ -1,0 +1,8 @@
+{
+  "station_id": "ENV_STATION_001",
+  "location": "Building A",
+  "timestamp": "2025-03-24T00:23:55.911817",
+  "temperature": 24.35,
+  "humidity": 53.27,
+  "co2": 890.0
+}
